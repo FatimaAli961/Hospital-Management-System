@@ -9,6 +9,8 @@ Key features:
 * Doctor Management (manage doctor details and availability)
 * Appointment Management (book, cancel, reschedule appointments)
 * Reports & Statistics (daily/weekly summaries of visits and schedules)
+
+
 Team Members:
 *Hiba Sabbagh
 *Nay Hamdan
